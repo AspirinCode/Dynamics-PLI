@@ -22,7 +22,7 @@ Accurate prediction of the drug binding between proteins and ligands can signifi
 
 ## Cite
 
-* M. Liu et al., "Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction," in IEEE Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBBIO.2025.3558959.
+* M. Liu et al., "Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction," in IEEE Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBBIO.2025.3558959. https://doi.org/10.1109/TCBBIO.2025.3558959
 
 
 
